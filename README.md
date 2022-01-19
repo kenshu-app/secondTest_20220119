@@ -1,8 +1,10 @@
 # 見出し h1
 
+![](https://img.shields.io/badge/version-1.0.0-990000.svg)
+
 ## 見出し h2
 
-段落 1 /_ 1 行空ける _/
+段落 1
 
 段落 2
 
